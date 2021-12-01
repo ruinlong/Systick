@@ -565,7 +565,7 @@
             <File>
               <FileName>Systick.c</FileName>
               <FileType>1</FileType>
-              <FilePath>.\Systick.c</FilePath>
+              <FilePath>.\user\Systick.c</FilePath>
             </File>
           </Files>
         </Group>

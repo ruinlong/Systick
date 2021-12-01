@@ -1,5 +1,5 @@
-.\objects\systick.o: Systick.c
-.\objects\systick.o: Systick.h
+.\objects\systick.o: user\Systick.c
+.\objects\systick.o: user\Systick.h
 .\objects\systick.o: .\CMSIS\stm32f10x.h
 .\objects\systick.o: .\CMSIS\core_cm3.h
 .\objects\systick.o: D:\keil\ARM\ARMCC\Bin\..\include\stdint.h

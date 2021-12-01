@@ -28,4 +28,4 @@
 .\objects\main.o: .\stdlib\inc\stm32f10x_usart.h
 .\objects\main.o: .\stdlib\inc\stm32f10x_wwdg.h
 .\objects\main.o: .\stdlib\inc\misc.h
-.\objects\main.o: ..\stm\Systick.h
+.\objects\main.o: user\Systick.h
